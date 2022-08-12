@@ -8,4 +8,6 @@ Winning icons,
 Hitsounds option,
 Bullet notes,
 character select,
-and much more coming soon
+A song bar,
+a attack mechanic (like from indie cross)
+and much more coming soon.
