@@ -9,5 +9,8 @@ Hitsounds option,
 Bullet notes,
 character select,
 A song bar,
-a attack mechanic (like from indie cross)
+a attack mechanic (like from indie cross), a stage editor,
+a thing that tells how many sicks and goods you have etc,
+loading screens when you start up the game, 
+a good rating system, a better looking logo
 and much more coming soon.
